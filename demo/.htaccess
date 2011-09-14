@@ -1,0 +1,12 @@
+<Files ".ht*">
+order allow,deny
+deny from all
+</Files>
+
+AuthUserFile /home/admin2/.htpasswd
+AuthType Basic
+AuthName "Restricted Area"
+
+require valid-user
+
+Options All -Indexes
