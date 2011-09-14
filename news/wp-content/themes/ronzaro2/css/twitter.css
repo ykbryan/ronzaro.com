@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#sidebar iframe{
+	width:200px;
+	background:none;
+}

@@ -1,0 +1,149 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#page-wrap{
+	width:950px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+header img{
+	margin-top:25px;
+	margin-bottom:10px;
+}
+
+.content-date{
+	text-align:center;
+	width:30px;
+	background-color:#111;
+	padding:3px 5px 3px 5px;
+	color:#FFF;
+}
+.content-date-month, .content-date-year, .content-date-day, .content-author strong, .content-body, .content-footer, .content-footer-categories, .content-footer-tags, #footer small, .sidebar-title, .sidebar-div li, .sidebar-div ul, #footer div, .sidebar-div p, .content-body p, .content-body ol, .content-body li{
+	background: none;
+}
+.content-date-month, .content-date-year{
+	font-size:10px;
+}
+.content-date-day{
+	font-size:12px;
+}
+article{
+	width:720px;
+	margin-bottom:2px;
+	padding-bottom:2px;
+}
+.content-title{
+	padding:8px 5px 3px 5px;
+	background:#666;
+	color:#FFF;
+	font-weight:bold;
+	font-size:18px;
+	line-height:14px;
+}
+.content-author{
+	padding:0px 5px 5px 5px;
+	background:#666;
+	color:#C5C5C5;
+	font-weight:bold;
+	font-size:9px;
+}
+.content-body{
+	color:#DDD;
+	font-size:13px;
+	padding:10px;
+	line-height:16px;
+}
+.content-body img{
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+	border:1px solid #000;
+}.content-body img:hover{
+	border:1px solid #CCC;
+}
+.content-footer{
+	padding: 5px 0px 10px 0px;
+	margin: 5px 10px 10px 10px;
+	border-top:1px solid #CCC;
+	border-bottom:1px solid #CCC;
+	color:#EEE;
+	font-size:10px;
+}
+#content article{
+	background:#2B3334;
+}
+#sidebar{
+	width:220px;
+	float:right;
+	margin-bottom:3px;
+}
+#search-div{
+	width:100%;
+	background:#343434;
+	padding:10px;
+	height:20px;
+	border-bottom:1px solid #999;
+}
+#search-div #s{
+	border:solid 1px transparent;
+	color:#626262;
+	background:#A9A9A9;
+	font-size:10px;
+	margin-right:10px;
+	margin-top:2px;
+	width:180px;
+}
+#searchsubmit{
+	background:url(../images/search_button.gif) no-repeat center top;
+	border:0px none;
+	width:20px;
+}
+label.screen-reader-text{ display: none }
+#search-div input, #search-div img{
+	float:left;
+}
+.sidebar-div{
+	width:100%;
+	background:#3B4344;
+	padding:10px;
+}
+.sidebar-title{
+	color:#DDD;
+}
+.sidebar-div a, .sidebar-div li{
+	color:#999;
+}
+.sidebar-div a:hover{
+	color:#CCC;
+}
+#footer{
+	width:100%;
+	padding:10px;
+	background:#333;
+	color:#FFF;
+	text-align:right;
+	float:left;
+	opacity:0.5;
+}
+#footer div{
+	float:left;
+}
+#footer small{
+	float:right;
+}
+
+.post-edit-link{
+	font-size:10px;
+}
+
+.content-body ol li{
+	margin-left:40px;
+}
+
+.aligncenter{
+	clear:none;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}

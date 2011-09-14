@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.lifestream li{
+	background:url(../images/icon-twitter.png) no-repeat left top;
+	padding-left:20px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.timeago{
+	background:none;
+	display:block;
+	padding-top:5px;
+	text-align:right;
+}
