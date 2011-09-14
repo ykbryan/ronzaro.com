@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^([\-_0-9A-Za-z]+)$  index.php?action=$1
+RewriteRule ^design.([\-_0-9A-Za-z]+)$  index.php?action=design&id=$1

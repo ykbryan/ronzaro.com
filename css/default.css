@@ -1,0 +1,34 @@
+.top{padding-top:20px;height:50px;background:url(http://images.ronzaro.netdna-cdn.com/top.jpg) repeat-x bottom left;float:right}
+.bottom{background:url(http://images.ronzaro.netdna-cdn.com/bottom.jpg) repeat-x #000;height:90px;float:left}
+.top, .bottom{width:100%;display:none;text-align:center}
+.top ul, .bottom ul{ font-size:10px;margin-bottom:0px}
+.top li, .bottom li{text-transform:uppercase;font-size:10px;float:left;margin-left:20px;list-style-type:none}
+.top li:hover, .bottom li:hover{cursor:pointer;color:#FFF;text-decoration:none}
+.top li:hover{background:url(http://images.ronzaro.netdna-cdn.com/hover-top.png)  no-repeat center bottom}
+.bottom li:hover{background:url(http://images.ronzaro.netdna-cdn.com/hover-bottom.png)  no-repeat center top}
+.top li{padding:28px 0px 10px}
+.bottom li{padding-top:15px;text-transform:uppercase;}
+#register{ color:#AAA }
+#register:hover{ color:#FFF; cursor:pointer}
+#loading-bar{
+	top:35%; 
+	position:fixed; 
+	width:100%;
+	background-color:#000;
+	z-index:999;
+	text-align:center;
+}
+#collections:hover{cursor:pointer;color:#FFF}
+#logo{
+	font-family:'Cochin';
+	font-weight:100;
+	letter-spacing:2px;
+	font-size:35px;
+	color:#786b3c;
+}
+@font-face {
+	font-family: 'Cochin';
+	src: url('Cochin.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

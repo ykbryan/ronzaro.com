@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /config/
+Disallow: /session/
+Disallow: /images/
+Disallow: /class/
+Allow: /
+Disallow: /includes/
+
