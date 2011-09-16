@@ -125,11 +125,11 @@ echo '$(window).load(function() {
 
 <h1 style="display:none">RONZARO Designs</h1>
 <div id="wrap">
-	<img id="prev" class="prev" src="images/pagearrow_back.png" alt="back" style="position:absolute; top:110px; z-index:999" />
-    <img id="next" class="next" src="images/pagearrow_forward.png" alt="next" style="position:absolute; top:110px; z-index:999" />
+	<img id="prev" class="prev" src="http://images.ronzaro.netdna-cdn.com/pagearrow_back.png" alt="back" style="position:absolute; top:110px; z-index:999" />
+    <img id="next" class="next" src="http://images.ronzaro.netdna-cdn.com/pagearrow_forward.png" alt="next" style="position:absolute; top:110px; z-index:999" />
     
-	<img id="arrow-right" width="20" height="25" src="images/arrow-right.png" alt="next" style="position:absolute; top:320px; z-index:0; display:none" />
-	<img id="arrow-left" width="20" height="25" src="images/arrow-left.png" alt="back" style="position:absolute; top:320px; z-index:0; display:none" />
+	<img id="arrow-right" width="20" height="25" src="http://images.ronzaro.netdna-cdn.com/arrow-right.png" alt="next" style="position:absolute; top:320px; z-index:0; display:none" />
+	<img id="arrow-left" width="20" height="25" src="http://images.ronzaro.netdna-cdn.com/arrow-left.png" alt="back" style="position:absolute; top:320px; z-index:0; display:none" />
     
 	<div id="panel_wrapper">
     	<?php
@@ -214,7 +214,7 @@ echo '$(window).load(function() {
 			echo "</div>";
 			//end of description
 			
-			echo "<div class=\"title\"><img src=\"images/browse.png\"></div>";
+			echo "<div class=\"title\"><img src=\"http://images.ronzaro.netdna-cdn.com/browse.png\"></div>";
 			
 			echo '<img class="option" src="'.$main_image.'" />';
 			echo '<div class="other_pictures">'.$sub_image.'</div>';

@@ -95,7 +95,7 @@ if(empty($is_short_sleeve))
 #wrap{
 	width:100%;
 	overflow:hidden;
-	background-image:url(images/bkg_wood.jpeg);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/bkg_wood.jpeg);
 	min-height:630px;
 	float:left;
 	margin:1px 0px 1px 0px
@@ -106,24 +106,24 @@ if(empty($is_short_sleeve))
 .shirt_option{font-size:11px;padding-left:5px}
 .option:hover{cursor:pointer}
 div.proceed2{
-	background-image:url(images/proceed2.png);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/proceed2.png);
 	background-position:center right;
 	background-repeat:no-repeat;
 	padding-bottom:10px
 }
 div.proceed2:hover{
-	background-image:url(images/proceed2-selected.png);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/proceed2-selected.png);
 	cursor:pointer;
 	color:#FFF
 }
 div.back1{
-	background-image:url(images/back.png);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/back.png);
 	background-position:center right;
 	background-repeat:no-repeat;
 	padding-left:30px
 }
 div.back1:hover{
-	background-image:url(images/back-selected.png);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/back-selected.png);
 	cursor:pointer;
 	color:#FFF
 }
@@ -136,24 +136,24 @@ div.back1:hover{
 	background: white
 }
 td.proceed2{
-	background:url(images/process2.png) no-repeat left center; 
+	background:url(http://images.ronzaro.netdna-cdn.com/process2.png) no-repeat left center; 
 	width:90px; 
 	height:40px; 
 	padding-left:40px
 }
 td.proceed2:hover{
-	background:url(images/process2-selected.png) no-repeat left center;
+	background:url(http://images.ronzaro.netdna-cdn.com/process2-selected.png) no-repeat left center;
 	cursor:pointer;
 	color:#FFF
 }
 td.proceed3{
-	background:url(images/process3.png) no-repeat left center; 
+	background:url(http://images.ronzaro.netdna-cdn.com/process3.png) no-repeat left center; 
 	width:90px; 
 	height:40px; 
 	padding-left:40px
 }
 td.proceed3:hover{
-	background:url(images/process3-selected.png) no-repeat left center;
+	background:url(http://images.ronzaro.netdna-cdn.com/process3-selected.png) no-repeat left center;
 	cursor:pointer;
 	color:#fff
 }
@@ -229,22 +229,22 @@ echo '$(window).load(function() {
     </div>
     
     <div id="outline_front" style="position: absolute; margin-top: 125px; width: 250px; height:375px; color:#FFF; background-color:#000; z-index:99; display:none; opacity:0.9">
-    	<img src="images/outline_front/bottom-loose-round.png" class="outline fit_3 btm_2 outline_btm">
-    	<img src="images/outline_front/bottom-loose-square.png" class="outline fit_3 btm_1 outline_btm">
-    	<img src="images/outline_front/bottom-regular-round.png" class="outline fit_2 btm_2 outline_btm">
-    	<img src="images/outline_front/bottom-regular-square.png" class="outline fit_2 btm_1 outline_btm">
-    	<img src="images/outline_front/bottom-slim-round.png" class="outline fit_1 btm_2 outline_btm">
-    	<img src="images/outline_front/bottom-slim-square.png" class="outline fit_1 btm_1 outline_btm">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/bottom-loose-round.png" class="outline fit_3 btm_2 outline_btm">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/bottom-loose-square.png" class="outline fit_3 btm_1 outline_btm">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/bottom-regular-round.png" class="outline fit_2 btm_2 outline_btm">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/bottom-regular-square.png" class="outline fit_2 btm_1 outline_btm">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/bottom-slim-round.png" class="outline fit_1 btm_2 outline_btm">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/bottom-slim-square.png" class="outline fit_1 btm_1 outline_btm">
         
-    	<img src="images/outline_front/cut-loose.png" class="outline fit_3 cut_3 outline_fit">
-    	<img src="images/outline_front/cut-regular.png" class="outline fit_2 cut_2 outline_fit">
-    	<img src="images/outline_front/cut-slim.png" class="outline fit_1 cut_1 outline_fit">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/cut-loose.png" class="outline fit_3 cut_3 outline_fit">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/cut-regular.png" class="outline fit_2 cut_2 outline_fit">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/cut-slim.png" class="outline fit_1 cut_1 outline_fit">
         
-    	<img src="images/outline_front/collar-medium-button.png" class="outline collar_4 outline_collar">
-    	<img src="images/outline_front/collar-medium.png" class="outline collar_3 outline_collar">
-    	<img src="images/outline_front/collar-narrow.png" class="outline collar_2 outline_collar">
-    	<img src="images/outline_front/collar-wide.png" class="outline collar_5 outline_collar">
-    	<img src="images/outline_front/collar-round.png" class="outline collar_1 outline_collar">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/collar-medium-button.png" class="outline collar_4 outline_collar">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/collar-medium.png" class="outline collar_3 outline_collar">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/collar-narrow.png" class="outline collar_2 outline_collar">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/collar-wide.png" class="outline collar_5 outline_collar">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/collar-round.png" class="outline collar_1 outline_collar">
         
         <?php
 		$getPlacketDB = "select outline_image from shirt_placket WHERE id = $shirt_placket_id";
@@ -254,64 +254,64 @@ echo '$(window).load(function() {
 		echo "<img src=\"$row[0]\" class=\"outline optional\">";
 		?>
     	
-    	<img src="images/pocket/transparent.png" class="outline pocket_1">
-    	<img src="images/outline_front/pocket-angular.png" class="outline pocket_2 outline_pocket">
-    	<img src="images/outline_front/pocket-curve.png" class="outline pocket_3 outline_pocket">
-    	<img src="images/outline_front/pocket-corner-cut.png" class="outline pocket_4 outline_pocket">
+    	<img src="http://images.ronzaro.netdna-cdn.com/pocket/transparent.png" class="outline pocket_1">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/pocket-angular.png" class="outline pocket_2 outline_pocket">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/pocket-curve.png" class="outline pocket_3 outline_pocket">
+    	<img src="http://images.ronzaro.netdna-cdn.com/outline_front/pocket-corner-cut.png" class="outline pocket_4 outline_pocket">
         
-        <img src="images/pocket/transparent.png" class="monogram_none outline outline_monogram">
-        <img src="images/monogram_placing/cuff-left<?php if($is_short_sleeve != 'N') echo "-short"; ?>.png" class="monogram_leftcuff outline outline_monogram">
-        <img src="images/monogram_placing/cuff-right<?php if($is_short_sleeve != 'N') echo "-short"; ?>.png" class="monogram_rightcuff outline outline_monogram">
-        <img src="images/monogram_placing/chest-left.png" class="monogram_leftchest outline outline_monogram">
-        <img src="images/monogram_placing/chest-right.png" class="monogram_rightchest outline outline_monogram">
+        <img src="http://images.ronzaro.netdna-cdn.com/pocket/transparent.png" class="monogram_none outline outline_monogram">
+        <img src="http://images.ronzaro.netdna-cdn.com/monogram_placing/cuff-left<?php if($is_short_sleeve != 'N') echo "-short"; ?>.png" class="monogram_leftcuff outline outline_monogram">
+        <img src="http://images.ronzaro.netdna-cdn.com/monogram_placing/cuff-right<?php if($is_short_sleeve != 'N') echo "-short"; ?>.png" class="monogram_rightcuff outline outline_monogram">
+        <img src="http://images.ronzaro.netdna-cdn.com/monogram_placing/chest-left.png" class="monogram_leftchest outline outline_monogram">
+        <img src="http://images.ronzaro.netdna-cdn.com/monogram_placing/chest-right.png" class="monogram_rightchest outline outline_monogram">
         
         <?php 
-			if($is_short_sleeve == 'N') echo '<img src="images/outline_front/cuff.png" class="outline optional">
-											  <img src="images/outline_front/sleeves-long.png" class="outline optional">';
-			else echo '<img src="images/outline_front/sleeves-short.png" class="outline optional">';
+			if($is_short_sleeve == 'N') echo '<img src="http://images.ronzaro.netdna-cdn.com/outline_front/cuff.png" class="outline optional">
+											  <img src="http://images.ronzaro.netdna-cdn.com/outline_front/sleeves-long.png" class="outline optional">';
+			else echo '<img src="http://images.ronzaro.netdna-cdn.com/outline_front/sleeves-short.png" class="outline optional">';
 		?>
     </div>
     
     <div id="outline_back" style="position: absolute; float:left; margin-top: 125px; width: 250px; height:375px; color:#FFF; background-color:#000; z-index:99; display:none; opacity:0.9">
-    <img src="images/outline_back/bottom-loose-round.png" class="outline btm_2 fit_3 outline_btm">
-    <img src="images/outline_back/bottom-loose-square.png" class="outline btm_1 fit_3 outline_btm">
-    <img src="images/outline_back/bottom-regular-round.png"class="outline btm_2 fit_2 outline_btm">
-    <img src="images/outline_back/bottom-regular-square.png" class="outline btm_1 fit_2 outline_btm">
-    <img src="images/outline_back/bottom-slim-round.png" class="outline btm_2 fit_1 outline_btm">
-    <img src="images/outline_back/bottom-slim-square.png" class="outline btm_1 fit_1 outline_btm">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/bottom-loose-round.png" class="outline btm_2 fit_3 outline_btm">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/bottom-loose-square.png" class="outline btm_1 fit_3 outline_btm">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/bottom-regular-round.png"class="outline btm_2 fit_2 outline_btm">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/bottom-regular-square.png" class="outline btm_1 fit_2 outline_btm">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/bottom-slim-round.png" class="outline btm_2 fit_1 outline_btm">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/bottom-slim-square.png" class="outline btm_1 fit_1 outline_btm">
     
-    <img src="images/outline_back/collar.png" class="outline optional">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/collar.png" class="outline optional">
     
-    <img src="images/outline_back/cut-loose.png" class="outline fit_3 cut_3 outline_fit">
-    <img src="images/outline_back/cut-regular.png" class="outline fit_2 cut_2 outline_fit">
-    <img src="images/outline_back/cut-slim.png" class="outline fit_1 cut_1 outline_fit">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/cut-loose.png" class="outline fit_3 cut_3 outline_fit">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/cut-regular.png" class="outline fit_2 cut_2 outline_fit">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/cut-slim.png" class="outline fit_1 cut_1 outline_fit">
     
-    <img src="images/outline_back/pleat-box.png" class="outline back_3 outline_back">
-    <img src="images/outline_back/pleat-plain.png" class="outline back_1 outline_back">
-    <img src="images/outline_back/pleat-single-side.png" class="outline back_2 outline_back">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/pleat-box.png" class="outline back_3 outline_back">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/pleat-plain.png" class="outline back_1 outline_back">
+    <img src="http://images.ronzaro.netdna-cdn.com/outline_back/pleat-single-side.png" class="outline back_2 outline_back">
     
     <?php 
-			if($is_short_sleeve == 'N') echo '<img src="images/outline_back/cuff-double-angled.png" class="outline cuff_4 outline_cuff">
-												<img src="images/outline_back/cuff-double-curved.png" class="outline cuff_5 outline_cuff">
-												<img src="images/outline_back/cuff-doubled-square.png" class="outline cuff_6 outline_cuff">
-												<img src="images/outline_back/cuff-single-angled.png" class="outline cuff_1 outline_cuff">
-												<img src="images/outline_back/cuff-single-curved.png" class="outline cuff_2 outline_cuff">
-												<img src="images/outline_back/cuff-single-square.png" class="outline cuff_3 outline_cuff">
-												<img src="images/outline_back/sleeves-long.png" class="outline placket_1 outline_placket">
-												<img src="images/outline_back/sleeves-long.png" class="outline outline optional">';
-			else echo '<img src="images/outline_back/sleeves-short.png" class="outline outline optional">';
+			if($is_short_sleeve == 'N') echo '<img src="http://images.ronzaro.netdna-cdn.com/outline_back/cuff-double-angled.png" class="outline cuff_4 outline_cuff">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/cuff-double-curved.png" class="outline cuff_5 outline_cuff">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/cuff-doubled-square.png" class="outline cuff_6 outline_cuff">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/cuff-single-angled.png" class="outline cuff_1 outline_cuff">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/cuff-single-curved.png" class="outline cuff_2 outline_cuff">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/cuff-single-square.png" class="outline cuff_3 outline_cuff">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/sleeves-long.png" class="outline placket_1 outline_placket">
+												<img src="http://images.ronzaro.netdna-cdn.com/outline_back/sleeves-long.png" class="outline outline optional">';
+			else echo '<img src="http://images.ronzaro.netdna-cdn.com/outline_back/sleeves-short.png" class="outline outline optional">';
 	?>
     
     </div>
     
     <table style="margin-bottom:5px; margin-top:5px; width:60%"><tr>
-    	<td class="proceed1" style="background:url(images/process1-selected.png) no-repeat left center; width:90px; height:40px; padding-left:40px; color:#FFF">Design</td>
+    	<td class="proceed1" style="background:url(http://images.ronzaro.netdna-cdn.com/process1-selected.png) no-repeat left center; width:90px; height:40px; padding-left:40px; color:#FFF">Design</td>
         <td class="proceed2">Size</td>
         <td class="proceed3">Checkout</td>
         <td></td>
     </tr></table>
 
-    <div id="message" style="margin-bottom:20px; padding:10px 15px 10px 15px; background-image:url(images/bg_box.png); width:630px; text-align:left; height:25px">
+    <div id="message" style="margin-bottom:20px; padding:10px 15px 10px 15px; background-image:url(http://images.ronzaro.netdna-cdn.com/bg_box.png); width:630px; text-align:left; height:25px">
         <span style="float:left; color:#777"><b style="color:#AAA"><?php echo $description; ?></b><br />Default shirt features selected below. Customize or proceed to sizing.</span>
         <button style="float:right" class="proceed2">Proceed to sizing</button>
     </div>
@@ -323,7 +323,7 @@ echo '$(window).load(function() {
         
         <table style="margin-top:-5px; border-spacing:5px" id="customize_shirt">
             <tr>
-                <td style="background-image:url(images/bg_box.png); vertical-align:text-top; padding:5px" width="400" id="mouseover_front" colspan="1" rowspan="2">
+                <td style="background-image:url(http://images.ronzaro.netdna-cdn.com/bg_box.png); vertical-align:text-top; padding:5px" width="400" id="mouseover_front" colspan="1" rowspan="2">
                 <div id="collar" class="panel">
                     <span class="shirt_option">Collar</span>
                     <br />
@@ -368,7 +368,7 @@ echo '$(window).load(function() {
                 <span class="shirt_option">Fit</span>
                 <br />
                 <div style="height:100px; padding-left:10px">
-                    <img src="images/fit/none.png" style="position:absolute" width="100">
+                    <img src="http://images.ronzaro.netdna-cdn.com/fit/none.png" style="position:absolute" width="100">
                     <?php
                 
                     $fits = "SELECT * FROM shirt_fit"; 
@@ -408,7 +408,7 @@ echo '$(window).load(function() {
                     ?>
                     </div>
                 </td>
-                <td style="background-image:url(images/bg_box.png); padding:5px; vertical-align:text-top; width:240px; height:250px" id="mouseover_back">
+                <td style="background-image:url(http://images.ronzaro.netdna-cdn.com/bg_box.png); padding:5px; vertical-align:text-top; width:240px; height:250px" id="mouseover_back">
                 <?php 
                     if($is_short_sleeve == 'N'){
                     
@@ -458,33 +458,33 @@ echo '$(window).load(function() {
             <tr>
                 
                 
-                <td style="background-image:url(images/bg_box.png)" id="mouseover_monogram" title="shirt monogram is a small embroidery of two or three letters on the shirt">
-                <span class="shirt_option">Monogram lettering <img src="images/question_mark.png" width="15" id="question_monogram" title="What is a monogram"></span>
+                <td style="background-image:url(http://images.ronzaro.netdna-cdn.com/bg_box.png)" id="mouseover_monogram" title="shirt monogram is a small embroidery of two or three letters on the shirt">
+                <span class="shirt_option">Monogram lettering <img src="http://images.ronzaro.netdna-cdn.com/question_mark.png" width="15" id="question_monogram" title="What is a monogram"></span>
                     <br />
                     <table style="padding:0px 10px 0px 2px; font-size:11px">
                         <tr style="height:30px"><td colspan="2">i. Choose placement<br />
 
 						<?php if($is_short_sleeve == "Y") $is_sleeve = "sleeve"; else $is_sleeve = "cuff"; ?>
-<img class="option monogram_placement placement_none" id="monogram_none" src="images/pocket/none.png" title="No monogram" width="40" />
-<img class="option monogram_placement placement_leftcuff" id="monogram_leftcuff" src="images/monogram_placing/closeup-right-cuff.png" title="Right <?php echo $is_sleeve ?>" width="40" />
-<img class="option monogram_placement placement_rightcuff" id="monogram_rightcuff" src="images/monogram_placing/closeup-cuff.png" title="Left <?php echo $is_sleeve ?>" width="40" />
-<img class="option monogram_placement placement_rightchest" id="monogram_rightchest" src="images/monogram_placing/closeup-pocket.png" title="Left chest/pocket" width="40" />
+<img class="option monogram_placement placement_none" id="monogram_none" src="http://images.ronzaro.netdna-cdn.com/pocket/none.png" title="No monogram" width="40" />
+<img class="option monogram_placement placement_leftcuff" id="monogram_leftcuff" src="http://images.ronzaro.netdna-cdn.com/monogram_placing/closeup-right-cuff.png" title="Right <?php echo $is_sleeve ?>" width="40" />
+<img class="option monogram_placement placement_rightcuff" id="monogram_rightcuff" src="http://images.ronzaro.netdna-cdn.com/monogram_placing/closeup-cuff.png" title="Left <?php echo $is_sleeve ?>" width="40" />
+<img class="option monogram_placement placement_rightchest" id="monogram_rightchest" src="http://images.ronzaro.netdna-cdn.com/monogram_placing/closeup-pocket.png" title="Left chest/pocket" width="40" />
 
-<img src="images/monogram/leftcuff.png" style="display:none" />
-<img src="images/monogram/rightcuff.png" style="display:none" />
-<img src="images/monogram/rightpocket.png" style="display:none" />
+<img src="http://images.ronzaro.netdna-cdn.com/monogram/leftcuff.png" style="display:none" />
+<img src="http://images.ronzaro.netdna-cdn.com/monogram/rightcuff.png" style="display:none" />
+<img src="http://images.ronzaro.netdna-cdn.com/monogram/rightpocket.png" style="display:none" />
                         </td></tr>
                         <tr height="30">
                             <td valign="top" style="vertical-align:text-top">ii. Type your initials</td>
                             <td><input class="monogram_text text ui-widget-content ui-corner-all" type="text" placeholder="e.g R.O.N" maxlength="20" /></td>
                         </tr>
                         <tr><td width="90" style="vertical-align:text-top">iii. Color of your initials</td><td>
-                        	<img class="option colour colour_black" src="images/monogram/black.png" alt="black" title="black" width="20" />
-                            <img class="option colour colour_babyblue" src="images/monogram/babyblue.png" alt="baby blue" title="baby blue" width="20" />
-                            <img class="option colour colour_darkblue" src="images/monogram/darkblue.png" alt="dark blue" title="dark blue" width="20" />
-                            <img class="option colour colour_maroon" src="images/monogram/maroon.png" alt="maroon" title="maroon" width="20" />
-                            <img class="option colour colour_white" src="images/monogram/white.png" alt="white" title="white" width="20" />
-                        	<img class="option colour colour_gold" src="images/monogram/gold.png" alt="gold" title="gold" width="20" />
+                        	<img class="option colour colour_black" src="http://images.ronzaro.netdna-cdn.com/monogram/black.png" alt="black" title="black" width="20" />
+                            <img class="option colour colour_babyblue" src="http://images.ronzaro.netdna-cdn.com/monogram/babyblue.png" alt="baby blue" title="baby blue" width="20" />
+                            <img class="option colour colour_darkblue" src="http://images.ronzaro.netdna-cdn.com/monogram/darkblue.png" alt="dark blue" title="dark blue" width="20" />
+                            <img class="option colour colour_maroon" src="http://images.ronzaro.netdna-cdn.com/monogram/maroon.png" alt="maroon" title="maroon" width="20" />
+                            <img class="option colour colour_white" src="http://images.ronzaro.netdna-cdn.com/monogram/white.png" alt="white" title="white" width="20" />
+                        	<img class="option colour colour_gold" src="http://images.ronzaro.netdna-cdn.com/monogram/gold.png" alt="gold" title="gold" width="20" />
                         </td></tr>
                     </table>
                 </td>
@@ -504,13 +504,13 @@ echo '$(window).load(function() {
     <br /><p><button id="measurement_existing">Log in to use my previous measurements</button></p>
 	<br /><p><button id="measurement_customize">Enter my body measurements</button></p>
 	<br /><p><button id="measurement_standardize">Choose from a standard size chart</button></p>
-    <center><img class="size_loading" src="images/loadingbar.gif" border="0" style="display:none;" /></center>
+    <center><img class="size_loading" src="http://images.ronzaro.netdna-cdn.com/loadingbar.gif" border="0" style="display:none;" /></center>
 </div>
 <div id="customize" title="2. Body measurements" align="center" style="font-size:11px; display:none">
 	<table style="width:100%">
     	<tr>
         	<td style="vertical-align:text-top">
-            	<img src="images/measurement/neck.jpg" id="measurement-img" />
+            	<img src="http://images.ronzaro.netdna-cdn.com/measurement/neck.jpg" id="measurement-img" />
             </td>
             <td style="vertical-align:top">
             	
@@ -534,18 +534,18 @@ echo '$(window).load(function() {
                     </p><br />
                     </td></tr>
                     <tr><td>Neck</td><td>
-                    <input type="text" name="neck" id="neck" alt="place measuring tape under adam's apple and hold tape with at least 2 fingers' spacing" title="images/measurement/neck.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" />
+                    <input type="text" name="neck" id="neck" alt="place measuring tape under adam's apple and hold tape with at least 2 fingers' spacing" title="http://images.ronzaro.netdna-cdn.com/measurement/neck.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" />
                     </td><td class="type" width="40">inches</td></tr>
-                    <tr><td>Shoulder</td><td><input type="text" name="shoulder" id="shoulder" alt="measure across shoulder by placing measuring tape at the 2 interception points between the arm and the tip of the shoulder" title="images/measurement/shoulder.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Bicep</td><td><input type="text" name="bicep" id="bicep" alt="from 6 inch down from the shoulder, measure the circumference of the bicep with 1 finger's spacing." title="images/measurement/bicep.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Arm length</td><td><input type="text" name="armlength" id="armlength" alt="place measuring tape where the shoulders end (where shoulders start) and measure to half the back of the hand" title="images/measurement/armlength.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Wrist</td><td><input type="text" name="wrist" id="wrist" alt="measure loosely (at least 1 finger spacing) the circumference of the hand where the sleeves end. for the watch wearing wrist, measure the largest circumference of the wrist, including the watch" title="images/measurement/wrist.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Chest</td><td><input type="text" name="chest" id="chest" alt="measure loosely (at least 1 finger spacing) rounding up to the nearest whole number the circumference of the chest. ensure that tape at the back is horizontal and not drooping downwards" title="images/measurement/chest.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Waist</td><td><input type="text" name="waist" id="waist" alt="measure loosely (at least 1 finger spacing) rounding up to the nearest whole number the circumference of the waist. ensure that tape at the back is horizontal and not drooping downwards" title="images/measurement/waist.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Hips</td><td><input type="text" name="hips" id="hips" alt="measure loosely (at least 1 finger spacing) rounding up to the nearest whole number the circumference of the hips" title="images/measurement/hips.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
-                    <tr><td>Shirt length</td><td><input type="text" name="shirtlength" id="shirtlength" alt="measure the top (just under the collar) to the end of the crotch" title="images/measurement/shirtlength.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Shoulder</td><td><input type="text" name="shoulder" id="shoulder" alt="measure across shoulder by placing measuring tape at the 2 interception points between the arm and the tip of the shoulder" title="http://images.ronzaro.netdna-cdn.com/measurement/shoulder.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Bicep</td><td><input type="text" name="bicep" id="bicep" alt="from 6 inch down from the shoulder, measure the circumference of the bicep with 1 finger's spacing." title="http://images.ronzaro.netdna-cdn.com/measurement/bicep.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Arm length</td><td><input type="text" name="armlength" id="armlength" alt="place measuring tape where the shoulders end (where shoulders start) and measure to half the back of the hand" title="http://images.ronzaro.netdna-cdn.com/measurement/armlength.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Wrist</td><td><input type="text" name="wrist" id="wrist" alt="measure loosely (at least 1 finger spacing) the circumference of the hand where the sleeves end. for the watch wearing wrist, measure the largest circumference of the wrist, including the watch" title="http://images.ronzaro.netdna-cdn.com/measurement/wrist.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Chest</td><td><input type="text" name="chest" id="chest" alt="measure loosely (at least 1 finger spacing) rounding up to the nearest whole number the circumference of the chest. ensure that tape at the back is horizontal and not drooping downwards" title="http://images.ronzaro.netdna-cdn.com/measurement/chest.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Waist</td><td><input type="text" name="waist" id="waist" alt="measure loosely (at least 1 finger spacing) rounding up to the nearest whole number the circumference of the waist. ensure that tape at the back is horizontal and not drooping downwards" title="http://images.ronzaro.netdna-cdn.com/measurement/waist.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Hips</td><td><input type="text" name="hips" id="hips" alt="measure loosely (at least 1 finger spacing) rounding up to the nearest whole number the circumference of the hips" title="http://images.ronzaro.netdna-cdn.com/measurement/hips.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
+                    <tr><td>Shirt length</td><td><input type="text" name="shirtlength" id="shirtlength" alt="measure the top (just under the collar) to the end of the crotch" title="http://images.ronzaro.netdna-cdn.com/measurement/shirtlength.jpg" value="" class="measurement text ui-widget-content ui-corner-all" size="5" /></td><td class="type">inches</td></tr>
                     <tr><td colspan="3"><br /><p>This belongs to<br />
-                    <input type="text" name="m_name" id="m_name" title="images/measurement/neck.jpg" class="measurement text ui-widget-content ui-corner-all" size="25" placeholder="(optional)" />
+                    <input type="text" name="m_name" id="m_name" title="http://images.ronzaro.netdna-cdn.com/measurement/neck.jpg" class="measurement text ui-widget-content ui-corner-all" size="25" placeholder="(optional)" />
                     </td></tr>
                 </table>
             </td>
@@ -553,22 +553,22 @@ echo '$(window).load(function() {
     </table>
     
     <!-- preload -->
-    <img src="images/measurement/shoulder.jpg" style="display:none">
-    <img src="images/measurement/bicep.jpg" style="display:none">
-    <img src="images/measurement/armlength.jpg" style="display:none">
-    <img src="images/measurement/wrist.jpg" style="display:none">
-    <img src="images/measurement/chest.jpg" style="display:none">
-    <img src="images/measurement/waist.jpg" style="display:none">
-    <img src="images/measurement/hips.jpg" style="display:none">
-    <img src="images/measurement/shirtlength.jpg" style="display:none">
-    <img src="images/back-selected.png" style="display:none">
-    <img src="images/proceed2-selected.png" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/shoulder.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/bicep.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/armlength.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/wrist.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/chest.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/waist.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/hips.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/measurement/shirtlength.jpg" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/back-selected.png" style="display:none">
+    <img src="http://images.ronzaro.netdna-cdn.com/proceed2-selected.png" style="display:none">
     
     <div id="custom_desc" style="color:#CCC; text-align:left"></i>
     </div>
     <br />
     
-	<img id="loading" src="images/loadingbar.gif" border="0" style="float:right" />
+	<img id="loading" src="http://images.ronzaro.netdna-cdn.com/loadingbar.gif" border="0" style="float:right" />
 </div>
 <div id="standard" title="2. Standard sizing" align="center" style="font-size:11px; display:none">
     <br />
@@ -585,7 +585,7 @@ echo '$(window).load(function() {
             <span style="padding-left:10px">cm</span>
         </label>
         <br />
-    </div><img class="size_loading" src="images/loadingbar.gif" border="0" style="float:right; display:none;" />
+    </div><img class="size_loading" src="http://images.ronzaro.netdna-cdn.com/loadingbar.gif" border="0" style="float:right; display:none;" />
 	</p>
     <table style="width:90%; color:#FFF" id="std_size_table">
         <tr bgcolor="#444">
@@ -626,7 +626,7 @@ $("tr.choosing_std").live("click", function(){
     <button id="re-selection">Back to previous</button>
     
     </p><br />
-    <img class="size_loading" src="images/loadingbar.gif" border="0" style="float:right; display:none" />
+    <img class="size_loading" src="http://images.ronzaro.netdna-cdn.com/loadingbar.gif" border="0" style="float:right; display:none" />
 </div>
 <div id="action" title="Continue shopping" align="center" style="display:none"><br />
 	<p>Would you like to add more shirts to cart?</p><br />
@@ -757,11 +757,11 @@ $("input.monogram_text").keyup(function(){
 	if(!monogram_text)
 		monogram_text = "R.O.N";
 	if($(".placement_leftcuff").hasClass("img_selected"))
-		$("div#shirt_description").html("monogram illustration below:<br /><img src=\"images/monogram/leftcuff.png\" style=\"padding:5px\" width=\"220\"><div style=\"position:absolute; right:35px; top:90px; font-family:cursive; font-size:13px\">"+monogram_text+"</div>");
+		$("div#shirt_description").html("monogram illustration below:<br /><img src=\"http://images.ronzaro.netdna-cdn.com/monogram/leftcuff.png\" style=\"padding:5px\" width=\"220\"><div style=\"position:absolute; right:35px; top:90px; font-family:cursive; font-size:13px\">"+monogram_text+"</div>");
 	else if($(".placement_rightcuff").hasClass("img_selected"))
-		$("div#shirt_description").html("monogram illustration below:<br /><img src=\"images/monogram/rightcuff.png\" style=\"padding:5px\" width=\"220\"><div style=\"position:absolute; left:35px; top:90px; font-family:cursive; font-size:13px\">"+monogram_text+"</div>");
+		$("div#shirt_description").html("monogram illustration below:<br /><img src=\"http://images.ronzaro.netdna-cdn.com/monogram/rightcuff.png\" style=\"padding:5px\" width=\"220\"><div style=\"position:absolute; left:35px; top:90px; font-family:cursive; font-size:13px\">"+monogram_text+"</div>");
 	else if($(".placement_rightchest").hasClass("img_selected"))
-		$("div#shirt_description").html("monogram illustration below:<br /><img src=\"images/monogram/rightpocket.png\" style=\"padding:5px\" width=\"220\"><div style=\"position:absolute; left:50px; top:65px; font-family:cursive; font-size:13px\">"+monogram_text+"</div>");
+		$("div#shirt_description").html("monogram illustration below:<br /><img src=\"http://images.ronzaro.netdna-cdn.com/monogram/rightpocket.png\" style=\"padding:5px\" width=\"220\"><div style=\"position:absolute; left:50px; top:65px; font-family:cursive; font-size:13px\">"+monogram_text+"</div>");
 	else 
 		$("div#shirt_description").html("<center>No placement is selected</center>");
 });
@@ -848,8 +848,8 @@ $("div.panel").hover(function(){
 });
 
 $(".proceed2").click(function(){
-	$("td.proceed2").css("background-image", "url(images/process2-selected.png)").css("color", "#FFF");
-	$("td.proceed1").css("background-image", "url(images/process1.png)").css("color", "#666");
+	$("td.proceed2").css("background-image", "url(http://images.ronzaro.netdna-cdn.com/process2-selected.png)").css("color", "#FFF");
+	$("td.proceed1").css("background-image", "url(http://images.ronzaro.netdna-cdn.com/process1.png)").css("color", "#666");
 	
 	$("div#question").dialog({
 		hide: "explode",
@@ -861,8 +861,8 @@ $(".proceed2").click(function(){
 
 
 $('div').bind('dialogclose', function(event) {
-	$("td.proceed2").css("background-image", "url(images/process2.png)").css("color", "#666");
-	$("td.proceed1").css("background-image", "url(images/process1-selected.png)").css("color", "#FFF");
+	$("td.proceed2").css("background-image", "url(http://images.ronzaro.netdna-cdn.com/process2.png)").css("color", "#666");
+	$("td.proceed1").css("background-image", "url(http://images.ronzaro.netdna-cdn.com/process1-selected.png)").css("color", "#FFF");
  });
 
 $("td.proceed3").click(function(){

@@ -6,7 +6,7 @@
         <ul>
             <li><a href="./">home</a></li>
             <li><a href="http://www.ronzaro.com/news/">News</a></li>
-            <li id="collection"><a href="./coverflow">collections <img src="../images/arrow_right.png" style="opacity:0.5; border:0px; width:6px" alt=">" /></a></li>
+            <li id="collection"><a href="./coverflow">collections <img src="http://images.ronzaro.netdna-cdn.com/arrow_right.png" style="opacity:0.5; border:0px; width:6px" alt=">" /></a></li>
         </ul>
         <div id="collections" style="position:absolute; padding:10px; margin-top:17px; margin-left:400px; display:none; z-index:99; background: none">
             <a href="./coverflow">:: MONDAY BLUES</a>
@@ -58,7 +58,7 @@
                 <tr><td>Type it again</td><td><input type="password" name="repassword" id="repassword" value="" class="text ui-widget-content ui-corner-all" size="27" /></td></tr>
                 <tr><td></td><td><button id="register" style="float:right">Register</button></td></tr>
             </table>
-            <img id="login_loading" src="../images/loadingbar.gif" style="display:none" alt="loading..." />
+            <img id="login_loading" src="http://images.ronzaro.netdna-cdn.com/loadingbar.gif" style="display:none" alt="loading..." />
         </td><td style="width:50%; vertical-align:middle;">
         	<p style="font-size:12px; color:#FFFFFF; padding-left:15px; margin-top:-40px">Account sign in</p>
             <table style="padding-left:20px; font-size:11px; text-align:center">

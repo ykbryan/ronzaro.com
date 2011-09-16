@@ -77,8 +77,8 @@ echo '			$("div.top, #wrap").fadeIn(1000, function(){
 </header>
 
 <h1 style="display:none">Welcome to RONZARO</h1>
-<img src="images/landing_bg_left.jpg" style="display:none" alt="none">
-<img src="images/landing_bg.png" style="display:none" alt="none">
+<img src="http://images.ronzaro.netdna-cdn.com/landing_bg_left.jpg" style="display:none" alt="none">
+<img src="http://images.ronzaro.netdna-cdn.com/landing_bg.png" style="display:none" alt="none">
 
 
 <div id="wrap">
@@ -109,7 +109,7 @@ echo '			$("div.top, #wrap").fadeIn(1000, function(){
                 <div style="position:absolute; margin-left:495px; margin-top:300px; width:450px">
                     <a href="./coverflow">
                     <div class="img_button">
-                        <img src="images/button1.jpg" style="border:0px; width:200px" alt="Latest collection">
+                        <img src="http://images.ronzaro.netdna-cdn.com/button1.jpg" style="border:0px; width:200px" alt="Latest collection">
                         <div style="position:absolute; bottom:5px; width:200px; height:15px; color:#C93; background-color:#000; opacity:0.8; text-align:center">
                             Latest collection
                         </div>
@@ -117,7 +117,7 @@ echo '			$("div.top, #wrap").fadeIn(1000, function(){
                     </a>
                     <a href="./coming">
                     <div style="margin-left:10px" class="img_button">
-                        <img src="images/button2.jpg" style="border:0px; width:200px" alt="Coming soon">
+                        <img src="http://images.ronzaro.netdna-cdn.com/button2.jpg" style="border:0px; width:200px" alt="Coming soon">
                         <div style="position:absolute; bottom:5px; width:200px; height:15px; color:#C93; background-color:#000; opacity:0.8; text-align:center">
                             Coming soon
                         </div>
