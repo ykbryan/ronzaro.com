@@ -14,7 +14,7 @@ require_once "config/conn.php";
 	width:100%;
 	min-height:400px;
 	overflow:hidden;
-	background-image:url(images/bkg_wood.jpeg);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/bkg_wood.jpeg);
 	float:left;
 	text-align:center;
 	margin:1px 0px 1px 0px
@@ -24,7 +24,7 @@ require_once "config/conn.php";
 .cart_summary div{
 	width:100%;
 	padding:10px 10px 10px 10px;
-	background-image:url(images/bg_box.png);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/bg_box.png);
 	margin-top:5px;
 }
 .cart, .personal{
@@ -38,7 +38,7 @@ require_once "config/conn.php";
 	width:100%;
 	padding:10px 10px 10px 10px;
 	margin-top:5px;
-	background-image:url(images/bg_box.png);
+	background-image:url(http://images.ronzaro.netdna-cdn.com/bg_box.png);
 }
 .title_box{font-size:11px;color:#BBB}
 a#gift{color:#999;font-size:10px;padding-left:20px}
@@ -57,24 +57,24 @@ span#empty_this:hover{color:#FFF;cursor:pointer}
 .ui-selectmenu-menu-popup{width:250px}
 .proceed2:hover, .proceed1:hover{cursor:pointer;color:#fff}
 td.proceed2{
-	background:url(images/process2.png) no-repeat left center; 
+	background:url(http://images.ronzaro.netdna-cdn.com/process2.png) no-repeat left center; 
 	width:90px; 
 	height:40px; 
 	padding-left:50px;
 }
 td.proceed2:hover{
-	background:url(images/process2-selected.png) no-repeat left center;
+	background:url(http://images.ronzaro.netdna-cdn.com/process2-selected.png) no-repeat left center;
 	cursor:pointer;
 	color:#fff;
 }
 td.proceed1{
-	background:url(images/process1.png) no-repeat left center; 
+	background:url(http://images.ronzaro.netdna-cdn.com/process1.png) no-repeat left center; 
 	width:90px; 
 	height:40px; 
 	padding-left:50px;
 }
 td.proceed1:hover{
-	background:url(images/process1-selected.png) no-repeat left center;
+	background:url(http://images.ronzaro.netdna-cdn.com/process1-selected.png) no-repeat left center;
 	cursor:pointer;
 	color:#fff;
 }
@@ -135,7 +135,7 @@ ul{margin-left:35px;margin-bottom:10px}
     <table style="margin-top:10px; margin-left:20px; width:60^"><tr>
     	<td class="proceed1">Design</td>
         <td class="proceed2">Size</td>
-        <td class="proceed3" style="background:url(images/process3-selected.png) no-repeat left center; width:90px; height:40px; padding-left:50px; color:#FFF">Checkout</td>
+        <td class="proceed3" style="background:url(http://images.ronzaro.netdna-cdn.com/process3-selected.png) no-repeat left center; width:90px; height:40px; padding-left:50px; color:#FFF">Checkout</td>
         <td></td>
     </tr></table>
     <table style="width:100%">
@@ -300,7 +300,7 @@ ul{margin-left:35px;margin-bottom:10px}
 									$max++;
 								}
 											
-								echo "</select><br /><img id=\"loading\" class=\"loading_$key\" src=\"images/loadingbar.gif\" style=\"float:right\" border=0>";
+								echo "</select><br /><img id=\"loading\" class=\"loading_$key\" src=\"http://images.ronzaro.netdna-cdn.com/loadingbar.gif\" style=\"float:right\" border=0>";
 								
 								$selected_quantity = $shirt->quantity;
 								
@@ -557,7 +557,7 @@ ul{margin-left:35px;margin-bottom:10px}
 										  </script>";
 								}
 								?>
-                                <center><img id="paypal_loading" src="images/paypal_loading.gif" border=0></center>
+                                <center><img id="paypal_loading" src="http://images.ronzaro.netdna-cdn.com/paypal_loading.gif" border=0></center>
                             </p>
                         </div>
                     </div>
@@ -567,7 +567,7 @@ ul{margin-left:35px;margin-bottom:10px}
                         <div style="float:left" align="center">
                             Code <input type="text" id="promotion-code" class="text ui-widget-content ui-corner-all" size="30" /><br /><br />
                             <button id="promotion-button">Get promotion</button>
-                            <img id="promotion-loading" src="images/loadingbar.gif" border=0 style="display:none">
+                            <img id="promotion-loading" src="http://images.ronzaro.netdna-cdn.com/loadingbar.gif" border=0 style="display:none">
                             <p id="promotion-description" style="text-align:left">
                             	<strong></strong>
                                 <br />
