@@ -179,7 +179,7 @@ echo '$(window).load(function() {
 				else if($desc['meta_key'] == 'sub_image'){
 					$image_rep = str_replace(".jpg", "-300x451.jpg", $desc['meta_value']);
 					$image_thumb = str_replace(".jpg", "-150x150.jpg", $desc['meta_value']);
-					$sub_image .= '<img class="other_picture" src="'.$image_thumb.'" alt="'.$image_rep.'" width="40" /><img src="'.$image_rep.'" style="display:none">';
+					$sub_image .= '<img class="other_picture" src="'.$image_thumb.'" alt="'.$image_rep.'" width="40" />';//<img src="'.$image_rep.'" style="display:none">
 				}else if($desc['meta_key'] == 'Price')
 					$price = $desc['meta_value'];
 			}

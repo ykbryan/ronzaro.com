@@ -552,7 +552,7 @@ echo '$(window).load(function() {
         </tr>
     </table>
     
-    <!-- preload -->
+    <!-- preload
     <img src="http://images.ronzaro.netdna-cdn.com/measurement/shoulder.jpg" style="display:none">
     <img src="http://images.ronzaro.netdna-cdn.com/measurement/bicep.jpg" style="display:none">
     <img src="http://images.ronzaro.netdna-cdn.com/measurement/armlength.jpg" style="display:none">
@@ -561,6 +561,7 @@ echo '$(window).load(function() {
     <img src="http://images.ronzaro.netdna-cdn.com/measurement/waist.jpg" style="display:none">
     <img src="http://images.ronzaro.netdna-cdn.com/measurement/hips.jpg" style="display:none">
     <img src="http://images.ronzaro.netdna-cdn.com/measurement/shirtlength.jpg" style="display:none">
+    -->
     <img src="http://images.ronzaro.netdna-cdn.com/back-selected.png" style="display:none">
     <img src="http://images.ronzaro.netdna-cdn.com/proceed2-selected.png" style="display:none">
     
