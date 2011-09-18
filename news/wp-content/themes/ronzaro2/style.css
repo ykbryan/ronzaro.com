@@ -14,8 +14,7 @@ html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, 
 	margin: 0;
 	padding: 0;
 	font-family:Arial, Helvetica, sans-serif;
-	background: #000;
-}		
+}
 
 p{
 	margin-top:5px;
@@ -123,7 +122,7 @@ button {width: auto; overflow: visible;}
 -------------------------------------------------------------------------------*/
 
 /* new Linux- and Windows-friendly sans-serif font stack: http://mky.be/fontstack */
-body {font: 13px Helmet, Freesans, sans-serif;}
+body {font: 13px Helmet, Freesans, sans-serif; background: no-repeat center top fixed #000;} /*url(images/wood-background.jpg)*/
 
 /* using local fonts? make sure to read up on Paul Irish's 
 	Bulletproof @font-face syntax: http://mky.be/font-face/bulletproof/ */
