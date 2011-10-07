@@ -18,7 +18,7 @@
     
     <div class="sidebar-div">
         <strong class="sidebar-title">Categories</strong>
-        <ul><?php wp_list_categories('orderby=name&show_count=1&title_li=&exclude=4'); ?></ul>
+        <ul><?php wp_list_categories('orderby=name&show_count=1&title_li=&exclude=3'); ?></ul>
     </div>
     <div class="sidebar-div">
         <strong class="sidebar-title">Tag Cloud</strong>
